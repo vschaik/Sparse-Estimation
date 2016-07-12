@@ -1,7 +1,7 @@
 # Sparse-Estimation
 This repository contains my Jupyter notebook on sparse estimation of Neuron history kernels
 
-Requirements
+# Requirements
 
 ipython
 
@@ -9,7 +9,7 @@ numpy
 
 matplotlib
 
-Executing
+# Executing
 
 From the Sparse-Estimation directory:
 
